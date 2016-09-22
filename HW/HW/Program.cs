@@ -11,6 +11,12 @@ namespace HW
         static void Main(string[] args)
         {
             Console.WriteLine("hi!");
+
+        }
+        static void Main1(string[] args)
+        {
+            Console.WriteLine("hi!");
+
         }
     }
 }

@@ -10,7 +10,8 @@ namespace HW
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hi!");
+            Console.WriteLine("hi2 new ");
+            Console.WriteLine("hi2 test ");
         }
     }
 }
